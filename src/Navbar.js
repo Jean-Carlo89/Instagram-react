@@ -26,7 +26,7 @@ export default function Navbar(){
               <Icon name="compass-outline"/>
               <Icon name="heart-outline"/>
               <Icon name="person-outline"/>
-            </div>
+              </div>
     
               <div class="icones-mobile">
                 <ion-icon name="paper-plane-outline"></ion-icon>
